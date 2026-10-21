@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+outputs/
+train.py
+.git
+.venv
+*.ipynb

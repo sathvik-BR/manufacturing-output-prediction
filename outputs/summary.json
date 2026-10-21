@@ -1,0 +1,19 @@
+{
+  "best_model": "Linear Regression",
+  "threshold_underperforming": 17.7,
+  "classification": {
+    "threshold": 17.7,
+    "accuracy": 0.89,
+    "precision": 1.0,
+    "recall": 0.5849056603773585,
+    "f1": 0.7380952380952381
+  },
+  "regression": {
+    "R2": 0.9188,
+    "MSE": 10.5934,
+    "RMSE": 3.2547,
+    "MAE": 2.6112,
+    "CV_R2_mean": 0.9212,
+    "CV_R2_std": 0.0056
+  }
+}

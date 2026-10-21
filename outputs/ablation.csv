@@ -1,0 +1,4 @@
+Setup,R2,RMSE
+All features,0.9188,3.2547
+Without Efficiency_Score & Machine_Utilization,0.9165,3.3006
+Without all 4 engineered features,0.9166,3.2987

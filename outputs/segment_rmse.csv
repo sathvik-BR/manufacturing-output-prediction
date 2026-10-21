@@ -1,0 +1,10 @@
+Feature,Value,n,RMSE
+Shift,Day,111,2.9
+Shift,Evening,46,3.544
+Shift,Night,43,3.758
+Machine_Type,Type_A,69,2.932
+Machine_Type,Type_B,67,2.928
+Machine_Type,Type_C,64,3.855
+Material_Grade,Economy,46,3.487
+Material_Grade,Premium,34,3.297
+Material_Grade,Standard,120,3.149
