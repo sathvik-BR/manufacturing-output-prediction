@@ -139,4 +139,9 @@ Python, Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn, FastAPI, Uvicor
 
 ## Team
 
-_Add team member names here._
+- B R Sathvik
+- Dhanush L
+- B A Udaykiran
+- R Harshitha
+- Shriraksha
+
